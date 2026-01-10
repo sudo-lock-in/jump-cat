@@ -14,7 +14,7 @@
 python3 game.py
 ```
   <li>Space key to start game</li>  
-  <li>Use arrow keys to move left/right and jump</li>
+  <li>Use arrow keys to move left ←, right →, and jump ↑</li>
   <li>Double space to restart game after losing</li>
 </ul>
 
