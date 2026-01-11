@@ -8,7 +8,7 @@
 
 ### Controls
 <ul>
-  <li>Game is run on Python from the game folder</li> 
+  <li>Game is run on Python from the "game" folder</li> 
   
 ```
 python3 game.py
